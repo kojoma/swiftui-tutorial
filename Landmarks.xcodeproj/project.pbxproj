@@ -33,6 +33,7 @@
 		2874467D235C1B9A00E123B1 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 28744670235C1B9A00E123B1 /* landmarkData.json */; };
 		2874467E235C1B9A00E123B1 /* hiddenlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 28744671235C1B9A00E123B1 /* hiddenlake.jpg */; };
 		28744680235C1BC700E123B1 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2874467F235C1BC700E123B1 /* Data.swift */; };
+		28744682235C1E3E00E123B1 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28744681235C1E3E00E123B1 /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +86,7 @@
 		28744670235C1B9A00E123B1 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		28744671235C1B9A00E123B1 /* hiddenlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hiddenlake.jpg; sourceTree = "<group>"; };
 		2874467F235C1BC700E123B1 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		28744681235C1E3E00E123B1 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				28744626235AFC4100E123B1 /* AppDelegate.swift */,
 				28744628235AFC4100E123B1 /* SceneDelegate.swift */,
 				2874462A235AFC4100E123B1 /* LandmarkDetail.swift */,
+				28744681235C1E3E00E123B1 /* LandmarkList.swift */,
 				28744663235C185300E123B1 /* LandmarkRow.swift */,
 				28744656235B029F00E123B1 /* CircleImage.swift */,
 				28744658235B03EE00E123B1 /* MapView.swift */,
@@ -354,6 +357,7 @@
 				28744657235B029F00E123B1 /* CircleImage.swift in Sources */,
 				28744659235B03EE00E123B1 /* MapView.swift in Sources */,
 				28744629235AFC4100E123B1 /* SceneDelegate.swift in Sources */,
+				28744682235C1E3E00E123B1 /* LandmarkList.swift in Sources */,
 				2874462B235AFC4100E123B1 /* LandmarkDetail.swift in Sources */,
 				28744664235C185300E123B1 /* LandmarkRow.swift in Sources */,
 				2874465C235B176D00E123B1 /* Landmark.swift in Sources */,
